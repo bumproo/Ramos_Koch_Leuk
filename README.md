@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # B_ALL_genome_wide_crispr
 
 ## Count Data
@@ -39,7 +38,3 @@ all associated mageck output for these runs are included in the mageck folder
 - crispr_041822_validationScreen/mageck/mageck_sr.sh
 
 mageck output for this run is included in the mageck folder
-=======
-# B-ALL_Ramos_et_al
-Primary and validation screen data for Ramos et al.
->>>>>>> e0f9393bb9498a5acb5cf4794d65afbc101f6243
