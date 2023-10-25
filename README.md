@@ -29,6 +29,10 @@ all associated mageck output for these runs are included in the mageck folder
 
 ## Validation screen
 
+### Broad PoolQ count data for the validation screen are located in this directory:
+
+- crispr_041822_validationScreen/fromBroad
+
 ### data were imported and organized using the script:
 
 - crispr_041822_validationScreen/mageck/mageckFlute_RamosValidationScreen.html
